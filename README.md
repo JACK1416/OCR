@@ -1,1 +1,1 @@
-https://github.com/eragonruan/text-detection-ctpn/tree/master
+参考 : https://github.com/eragonruan/text-detection-ctpn/tree/master
