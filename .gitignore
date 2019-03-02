@@ -1,0 +1,10 @@
+data/
+__pycache__/
+.swp
+.so
+checkpoints_mlt/
+logs_mlt/
+pre-weights/
+build/
+mlt/
+mlt.zip
